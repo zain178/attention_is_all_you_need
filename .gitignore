@@ -1,0 +1,7 @@
+# filepath: /Users/zainnaqvi/Desktop/ML Learning/attention is all you need/.gitignore
+__pycache__/
+.venv/
+runs/
+weights/
+*.pt
+*.log
